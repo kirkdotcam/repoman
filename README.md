@@ -5,11 +5,9 @@
 ### This is the first topic
 
 
-Once upon a midnight dreary, 
-
-while i pondered, weak, and weary
-
-over a curious volume of forgotten lore.
+> Once upon a midnight dreary,  
+> while i pondered, weak, and weary  
+> over a curious volume of forgotten lore.
 
 We the people of the United _States_,
 
